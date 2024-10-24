@@ -177,7 +177,7 @@ const MeetTheBoard: NextPage<Props> = ({ isMobile }) => {
               image={IMAGES.mktgiovanna_pic}
               imageAlt="Giovanna Vesselizza Picture"
               officerTitle="Marketing Analyst"
-              officerName="Govanna Vesselizza"
+              officerName="Giovanna Vesselizza"
               isMobile={isMobile}
             />
             <BoardBox
@@ -210,16 +210,16 @@ const MeetTheBoard: NextPage<Props> = ({ isMobile }) => {
             />
             <BoardBox
               image={IMAGES.isabele_pic}
-              imageAlt="Isabele Miguel Picture"
+              imageAlt="Isabelle Miguel Picture"
               officerTitle="Professional Development Analyst"
-              officerName="Isabele Miguel"
+              officerName="Isabelle Miguel"
               isMobile={isMobile}
             />
             <BoardBox
               image={IMAGES.mel_pic}
               imageAlt="Mel Wolf Picture"
               officerTitle="Professional Development Analyst"
-              officerName="Mel Wolf"
+              officerName="Mel Wolff"
               isMobile={isMobile}
             />
             <BoardBox
@@ -408,14 +408,14 @@ const MeetTheBoard: NextPage<Props> = ({ isMobile }) => {
               image={IMAGES.mktgiovanna_pic}
               imageAlt="Giovanna Vesselizza Picture"
               officerTitle="Marketing Analyst"
-              officerName="Govanna Vesselizza"
+              officerName="Giovanna Vesselizza"
               isMobile={isMobile}
             />
             <BoardBox
               image={IMAGES.ana_pic}
-              imageAlt="Ana Carolina Dantas Picture"
+              imageAlt="Ana Beatriz Dantas Picture"
               officerTitle="Marketing Analyst"
-              officerName="Ana Carolina Dantas"
+              officerName="Ana Beatriz Dantas"
               isMobile={isMobile}
             />
             <BoardBox
@@ -441,16 +441,16 @@ const MeetTheBoard: NextPage<Props> = ({ isMobile }) => {
             />
             <BoardBox
               image={IMAGES.isabele_pic}
-              imageAlt="Isabele Miguel Picture"
+              imageAlt="Isabelle Miguel Picture"
               officerTitle="Professional Development Analyst"
-              officerName="Isabele Miguel"
+              officerName="Isabelle Miguel"
               isMobile={isMobile}
             />
             <BoardBox
               image={IMAGES.mel_pic}
               imageAlt="Mel Wolf Picture"
               officerTitle="Professional Development Analyst"
-              officerName="Mel Wolf"
+              officerName="Mel Wolff"
               isMobile={isMobile}
             />
             <BoardBox
